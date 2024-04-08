@@ -3,7 +3,7 @@
   {
     "date": "08.04.2024",
     "news": "some new features",
-    "actual" true,
+    "actual": true,
     "version": "0.9 beta"
   }
 
