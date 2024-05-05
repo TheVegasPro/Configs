@@ -3,20 +3,20 @@
   {
     "date": "08.04.2024",
     "news": "closed beta test",
-    "actual": false,
-    "version": "0.9 beta"
+    "version": "0.9 beta",
+    "actual": false
   },
   {
     "date": "27.04.2024",
     "news": "Релиз скрипта",
-    "actual": true,
-    "version": "2.0 beta"
+    "version": "2.0 beta",
+    "actual": true
   },
   {
     "date": "05.05.2024",
     "news": "Вся информация в файле README",
-    "actual": false,
-    "version": "2.01 beta"
+    "version": "2.01 beta",
+    "actual": false
   }
 
 ]
