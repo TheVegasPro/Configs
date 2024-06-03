@@ -10,13 +10,13 @@
     "date": "27.04.2024",
     "news": "Релиз скрипта",
     "version": "2.0 beta",
-    "actual": true
+    "actual": false
   },
   {
     "date": "05.05.2024",
     "news": "Вся информация в файле README",
     "version": "2.01 beta",
-    "actual": false
+    "actual": true
   }
 
 ]
