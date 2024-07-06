@@ -16,7 +16,12 @@
     "date": "03.06.2024",
     "news": "Вся информация в файле README",
     "version": "2.01 beta",
+    "actual": false
+  },
+  {
+    "date": "23.06.2024",
+    "news": "Вся информация в файле README",
+    "version": "2.2 beta",
     "actual": true
   }
-
 ]
